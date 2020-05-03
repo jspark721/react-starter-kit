@@ -1,5 +1,5 @@
 # React Starter Kit
-### quick react project set up without create-react-app 
+### Quick react project set up without create-react-app 
 
 Initialize NPM
 `npm init`
